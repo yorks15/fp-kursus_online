@@ -1,0 +1,18 @@
+{
+    "Aceh": {
+        "Banda Aceh": ["Baiturrahman", "Kuta Alam", "Meuraxa"],
+        "Langsa": ["Langsa Barat", "Langsa Kota", "Langsa Timur"]
+    },
+    "Sumatera Utara": {
+        "Medan": ["Medan Baru", "Medan Deli", "Medan Tuntungan"],
+        "Binjai": ["Binjai Barat", "Binjai Kota", "Binjai Selatan"]
+    },
+    "Jawa Barat": {
+        "Bandung": ["Bandung Kidul", "Bandung Wetan", "Cibeunying Kidul"],
+        "Bekasi": ["Bekasi Timur", "Bekasi Barat", "Pondok Gede"]
+    },
+    "Jawa Tengah": {
+        "Semarang": ["Semarang Barat", "Semarang Utara", "Semarang Selatan"],
+        "Surakarta": ["Laweyan", "Pasar Kliwon", "Serengan"]
+    }
+}
